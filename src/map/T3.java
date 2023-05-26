@@ -32,5 +32,6 @@ public class T3 {
 		}else {
 			System.out.println(key+": "+map.get(key));
 		}
+		sc.close();
 	}
 }
