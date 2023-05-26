@@ -12,5 +12,6 @@ public class TestClass02 {
 		n2 = sc.nextLine();
 		System.out.println(n1);
 		System.out.println(n2);
+		sc.close();
 	}
 }
